@@ -13,7 +13,7 @@ Segurança e proteção de dados <br>
 Publicidade, propaganda, marketing, SEO, copy e design gráfico (PS+LR+Premiere - básico) <br>
 
 <h2>Idiomas</h2>
-Português avançado
+Português avançado <br>
 Inglês intermediário para avançado - (I'm great reading and listening / I'm also working in develop write and speak skills in order to help my career) <br>
 Espanhol em formação <br>
 
