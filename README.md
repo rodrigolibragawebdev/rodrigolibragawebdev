@@ -1,7 +1,11 @@
 
-**Entre em contato**: &nbsp;  [![Linkedin: Rodrigo Libraga](https://img.shields.io/badge/-rodrigolibraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)](https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)
- [![Gmail Badge](https://img.shields.io/badge/-rodrigolibragawebdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigolibragawebdev@gmail.com)](mailto:rodrigolibragawebdev@gmail.com)
- [![GitHub Rodrigo Libraga]( https://img.shields.io/github/followers/rodrigolibragawebdev?label=follow&style=social)](https://github.com/rodrigolibragawebdev/rodrigolibragawebdev)
+**Entre em contato**:  
+
+[![Linkedin: Rodrigo Libraga](https://img.shields.io/badge/-rodrigolibraga-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)](https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)
+ [![Gmail Badge](https://img.shields.io/badge/-rodrigolibragawebdev@gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:rodrigolibragawebdev@gmail.com)](mailto:rodrigolibragawebdev@gmail.com)
+ <a href="https://api.whatsapp.com/send?phone=5551984724614" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551984724614"/></a>
+   [![GitHub Rodrigo Libraga]( https://img.shields.io/github/followers/rodrigolibragawebdev?label=follow&style=social)](https://github.com/rodrigolibragawebdev/rodrigolibragawebdev)
 
 <br/>
 
@@ -39,5 +43,11 @@ Estudando pela <a href="link da sua faculdade">One Bit Code</a>.
   
    ![Wordpress](https://img.shields.io/badge/-Wordpress-blue?style=flat&logo=wordpress)
    ![Woocommerce](https://img.shields.io/badge/-Woocommerce-purple?style=flat&logo=woocommerce)
+
+
+<br/>
+
+## <h3> &nbsp;Minha Jornada no Git Hub </h3>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigolibragawebdev&show_icons=true)
 
 
