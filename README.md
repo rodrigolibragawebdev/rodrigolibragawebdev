@@ -1,23 +1,45 @@
-- Desenvolvedor em formação.
 
-<h2>Cursos, palestras e eventos:</h2>
-Desenvolvimento Web Completo 2022 - Udemy (em andamento) <br>
-Infidade de cursos de marketing digital, UX/UI, copy, SEO. <br>
+![](https://komarev.com/ghpvc/?username=rodrigolibragawebdev&color=006bed)
 
-<h2>Experiência em:</h2>
-Desenvolvimento Wordpress <br>
-Low code (elementor + plugins) <br>
-Landing pages e páginas de captura <br>
-Otimização de páginas <br>
-Segurança e proteção de dados <br>
-Publicidade, propaganda, marketing, SEO, copy e design gráfico (PS+LR+Premiere - básico) <br>
+<h3> &nbsp;Sobre mim </h3>
 
-<h2>Idiomas</h2>
-Português avançado <br>
-Inglês intermediário para avançado - (I'm great reading and listening / I'm also working in develop write and speak skills in order to help my career) <br>
-Espanhol em formação <br>
+- 🚀 &nbsp; Explorando o front-end e me especializando em react e next.
+- 🎓 &nbsp; Estudando pela <a href="link da sua faculdade">One Bit Code</a>.
 
-<h2>Características:</h2>
-Autodidata <br>
-Facilidade com lógica e números <br>
-Não gosto de abandonar um projeto sem que ele esteja o mais próximo possível da perfeição (sendo perfeito atender o que foi contratado)
+<h3> 🧰 &nbsp;Minhas Skills </h3>
+
+**Aplicações e Dados**
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  
+  **Outras Aplicações**:  
+   ![Wordpress](https://img.shields.io/badge/-Wordpress-blue?style=flat&logo=wordpress)
+   ![Woocommerce](https://img.shields.io/badge/-Woocommerce-purple?style=flat&logo=woocommerce)
+
+<br/>
+
+<a href="https://github.com/VanessaSwerts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigolibragawebdev&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Rodrigo Libraga](https://img.shields.io/badge/-rodrigolibraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)](https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)
+[![Gmail Badge](https://img.shields.io/badge/-rodrigolibragawebdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigolibragawebdev@gmail.com)](mailto:rodrigolibragawebdev@gmail.com)
+[![GitHub Rodrigo Libraga]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/rodrigolibragawebdev/rodrigolibragawebdev)
