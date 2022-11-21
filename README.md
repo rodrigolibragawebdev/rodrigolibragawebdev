@@ -43,4 +43,4 @@
 
 [![Linkedin: Rodrigo Libraga](https://img.shields.io/badge/-rodrigolibraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)](https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)
 [![Gmail Badge](https://img.shields.io/badge/-rodrigolibragawebdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigolibragawebdev@gmail.com)](mailto:rodrigolibragawebdev@gmail.com)
-[![GitHub Rodrigo Libraga]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/rodrigolibragawebdev/rodrigolibragawebdev)
+[![GitHub Rodrigo Libraga]( https://img.shields.io/github/followers/rodrigolibragawebdev?label=follow&style=social)](https://github.com/rodrigolibragawebdev/rodrigolibragawebdev)
