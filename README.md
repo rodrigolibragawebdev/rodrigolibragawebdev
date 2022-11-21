@@ -1,5 +1,5 @@
 
-**Entre em contato**:  
+<h3>Entre em contato</h3>  
 
 [![Linkedin: Rodrigo Libraga](https://img.shields.io/badge/-rodrigolibraga-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)](https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)
  [![Gmail Badge](https://img.shields.io/badge/-rodrigolibragawebdev@gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:rodrigolibragawebdev@gmail.com)](mailto:rodrigolibragawebdev@gmail.com)
@@ -9,7 +9,7 @@
 
 <br/>
 
-<h3>&nbsp;Sobre mim </h3>
+<h3>Sobre mim </h3>
 
 Explorando o **front-end** e me especializando em **react e next**.
 
@@ -17,7 +17,7 @@ Estudando pela <a href="link da sua faculdade">One Bit Code</a>.
 
 <br/>
 
-<h3> &nbsp;Minhas Skills </h3>
+<h3>Minhas Skills </h3>
 
 *Aplicações e Dados*
 
@@ -47,7 +47,7 @@ Estudando pela <a href="link da sua faculdade">One Bit Code</a>.
 
 <br/>
 
-## <h3> &nbsp;Minha Jornada no Git Hub </h3>
+## <h3>Minha Jornada no Git Hub </h3>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigolibragawebdev&show_icons=true)
 
 
