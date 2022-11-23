@@ -13,7 +13,7 @@
 
 Explorando o **front-end** e me especializando em **react e next**.
 
-Estudando pela <a href="https://onebitcode.com/lp/">One Bit Code</a>.
+Estudando pela <a target="_blank" href="https://onebitcode.com/lp/">One Bit Code</a>.
 
 <br/>
 
