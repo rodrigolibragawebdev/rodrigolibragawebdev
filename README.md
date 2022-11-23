@@ -1,4 +1,13 @@
 
+
+<h2>Sobre mim </h2>
+
+Explorando o **front-end** e me especializando em **react e next**.
+
+Estudando pela **One Bit Code**.
+
+<br/>
+
 <h3>Entre em contato</h3>  
 
 [![Linkedin: Rodrigo Libraga](https://img.shields.io/badge/-rodrigolibraga-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)](https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)
@@ -6,14 +15,6 @@
  <a href="https://api.whatsapp.com/send?phone=5551984724614" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551984724614"/></a>
    [![GitHub Rodrigo Libraga]( https://img.shields.io/github/followers/rodrigolibragawebdev?label=follow&style=social)](https://github.com/rodrigolibragawebdev/rodrigolibragawebdev)
-
-<br/>
-
-<h3>Sobre mim </h3>
-
-Explorando o **front-end** e me especializando em **react e next**.
-
-Estudando pela **One Bit Code**.
 
 <br/>
 
