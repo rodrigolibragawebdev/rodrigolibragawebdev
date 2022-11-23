@@ -8,7 +8,7 @@ Estudando pela **One Bit Code**.
 
 <br/>
 
-<h3>Entre em contato</h3>  
+<h3>Entre em contato</h3>
 
 [![Linkedin: Rodrigo Libraga](https://img.shields.io/badge/-rodrigolibraga-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)](https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)
  [![Gmail Badge](https://img.shields.io/badge/-rodrigolibragawebdev@gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:rodrigolibragawebdev@gmail.com)](mailto:rodrigolibragawebdev@gmail.com)
