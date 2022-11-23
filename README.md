@@ -13,7 +13,7 @@
 
 Explorando o **front-end** e me especializando em **react e next**.
 
-Estudando pela **strong>One Bit Code**.
+Estudando pela **One Bit Code**.
 
 <br/>
 
