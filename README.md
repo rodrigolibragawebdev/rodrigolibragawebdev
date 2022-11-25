@@ -48,7 +48,7 @@ Estudando pela **One Bit Code**.
 <br/>
 
 ## <h3>Minha Jornada no Git Hub </h3>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigolibragawebdev&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigolibragawebdev&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolibragawebdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolibragawebdev&theme=dark&layout=compact)](https://github.com/anuraghazra&theme=dark/github-readme-stats)
 
