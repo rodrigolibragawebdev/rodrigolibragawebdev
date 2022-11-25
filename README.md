@@ -25,27 +25,38 @@ Estudando pela **One Bit Code**
 
 <*Aplicações e Dados* />
 
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
-  ![Next](https://img.shields.io/badge/-Next-333333?style=for-the-badge&logo=next.js)
+ ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+)
+ ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+)
+ ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+)
+ ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+)
+ ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+)
 
 
 <*DevOps* />
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+  
+ ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+)
+ ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white
+)
 
+ 
 
 <*Ferramentas de Desenvolvimento* />
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+ ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+)
   
 < *Outras Aplicações* />
-  
-   ![Wordpress](https://img.shields.io/badge/-Wordpress-blue?style=for-the-badge&logo=wordpress)
+ 
+ 
+   ![Wordpress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white
+)
    ![Woocommerce](https://img.shields.io/badge/-Woocommerce-purple?style=for-the-badge&logo=woocommerce)
 
 
