@@ -57,4 +57,6 @@ Estudando pela **One Bit Code**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolibragawebdev&theme=dark&layout=compact)](https://github.com/anuraghazra&theme=dark/github-readme-stats)
 
+ ![Snake animation](https://github.com/rodrigolibragawebdev/rodrigolibragawebdev/blob/output/github-contribution-grid-snake.svg)
+
  </div>
