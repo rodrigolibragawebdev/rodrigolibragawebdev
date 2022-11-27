@@ -63,7 +63,7 @@ Estudando pela **One Bit Code**
 <br/>
 
 
-## <h2>Minha Jornada no Git Hub </h2>
+ ## <h3>Minha Jornada no Git Hub </h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigolibragawebdev&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolibragawebdev&theme=dark&layout=compact)](https://github.com/anuraghazra&theme=dark/github-readme-stats)
