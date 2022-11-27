@@ -1,10 +1,10 @@
 # _________________________Hey 🤙 *from* <kbd> <img width="45" src="https://user-images.githubusercontent.com/112429915/204029797-56b489be-5daf-4336-99a2-ffcf29f43ef6.png" /> </kbd>
 
-
 <div align="center">
  
  <br/>
-<h3>Sobre mim </h3
+ 
+<h2>Sobre mim</h2> 
 
 Desenvolvedor **front-end** me especializando em **react e next**.
 
@@ -12,7 +12,7 @@ Estudando pela **One Bit Code**
 
 <br/>
 
-<h3>Entre em contato</h3>
+<h2>Entre em contato</h2>
 
 [![Linkedin: Rodrigo Libraga](https://img.shields.io/badge/-rodrigolibraga-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)](https://www.linkedin.com/in/rodrigo-libraga-fernandes-23741212b/)
  [![Gmail Badge](https://img.shields.io/badge/-rodrigolibragawebdev@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rodrigolibragawebdev@gmail.com)](mailto:rodrigolibragawebdev@gmail.com)
@@ -21,7 +21,7 @@ Estudando pela **One Bit Code**
 
 <br/>
 
-<h3>Minhas Skills </h3>
+<h2>Minhas Skills </h2>
 
 <*Aplicações e Dados* />
 
@@ -63,7 +63,7 @@ Estudando pela **One Bit Code**
 <br/>
 
 
-## <h3>Minha Jornada no Git Hub </h3>
+## <h2>Minha Jornada no Git Hub </h2>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigolibragawebdev&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolibragawebdev&theme=dark&layout=compact)](https://github.com/anuraghazra&theme=dark/github-readme-stats)
