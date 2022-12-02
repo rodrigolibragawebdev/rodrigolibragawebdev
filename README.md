@@ -6,7 +6,7 @@
  
 <h2>Sobre mim</h2> 
 
-Desenvolvedor **front-end** me especializando em **react e next**.
+Desenvolvedor **front-end** me especializando em **react**.
 
 Estudando pela **One Bit Code** 
 
