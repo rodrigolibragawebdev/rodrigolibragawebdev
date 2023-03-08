@@ -1,4 +1,4 @@
-# _________________________Hey 🤙 *from* <kbd> <img width="45" src="https://user-images.githubusercontent.com/112429915/204029797-56b489be-5daf-4336-99a2-ffcf29f43ef6.png" /> </kbd>
+# From <kbd> <img width="45" src="https://user-images.githubusercontent.com/112429915/204029797-56b489be-5daf-4336-99a2-ffcf29f43ef6.png" /> </kbd>
 
 <div align="center">
  
