@@ -5,6 +5,8 @@
   <kbd> <img width="45" src="https://user-images.githubusercontent.com/112429915/204029797-56b489be-5daf-4336-99a2-ffcf29f43ef6.png" />   </kbd>
   RODRIGO LIBRAGA FERNANDES - <a href="https://portfolio-rodrigolibragawebdev.vercel.app" target="_blank"> PORTFÓLIO </a>
  </h3>
+
+ <br>
  
 <h2>Sobre mim</h2> 
 
