@@ -10,10 +10,11 @@
  
 <h2>Sobre mim</h2> 
 
-Desenvolver Web na empresa PagBrasil, focado na criação de interfaces e aplicações utilizando: 
-- WordPress Theme (PHP e JS)
+Desenvolver na empresa PagBrasil, focado na criação de interfaces e aplicações utilizando: 
+- WordPress Theme (PHP, JS e CMS)
 - Woocommerce (PHP, JS - React)
-- Projetos em VUE2/3
+- Projetos em VUE2/3 (c/ vuetify, vue router, pinia, vuex e outros)
+- Orientação a objetos com PHP e JS
 
 <br>
   
